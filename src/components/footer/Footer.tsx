@@ -11,6 +11,7 @@ export const Footer: VFC = () => {
     <Flex
       as="footer"
       backgroundImage={FooterBg}
+      backgroundSize="cover"
       backgroundRepeat="no-repeat"
       backgroundPosition="center"
       color="white"

@@ -7,7 +7,6 @@ export const theme = extendTheme({
   colors: {
     myOrange: '#FB9F0D',
   },
-  mode: 'light',
 })
 
 export const TEXT_SHADOW =
